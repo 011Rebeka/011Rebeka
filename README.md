@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Python developer from Dhaka, Bangladesh.</h3>
 <h5 align="center">CS graduate with upto 70% score in academics. Have knowledge in Python, C, JavaScript, SQL database, PHP, and Java.  Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies.
 
-<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=011rebeka&label=Profile%20views&color=0e75b6&style=flat" alt="011rebeka" /> </p>
 - 📫 How to reach me **rebekasultana1496@gmail.com**
 
