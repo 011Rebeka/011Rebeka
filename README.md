@@ -5,11 +5,6 @@
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=011rebeka&label=Profile%20views&color=0e75b6&style=flat" alt="011rebeka" /> </p>
-
-- 🌱 I’m currently learning **Django, Creative IT Institute.**
-
-- 💬 Ask me about **Python, MySQL**
-
 - 📫 How to reach me **rebekasultana1496@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1KfJ_yDqOXSQfa9rJAvlnjC26jTBuwDTK](https://drive.google.com/drive/u/0/folders/1KfJ_yDqOXSQfa9rJAvlnjC26jTBuwDTK)
