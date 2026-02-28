@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rebeka!</h1>
-<h3 align="center">A passionate Python Django developer from Dhaka, Bangladesh.</h3>
-<h5 align="center">CS graduate with upto 70% score in academics. Have knowledge in C, HTML, CSS, JavaScript, SQL database, BootStrap, PHP, Java, Python. Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies. Excellent communication skills and ability to understand client requirements. Continuous learner of new technologies, strategies, and tools.</h5>
+<h3 align="center">A passionate Python developer from Dhaka, Bangladesh.</h3>
+<h5 align="center">CS graduate with upto 70% score in academics. Have knowledge in Python, C, JavaScript, SQL database, PHP, and Java.  Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies.
 
 <img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
